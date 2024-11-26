@@ -19,7 +19,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="50" height="50">
   </a>
   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="Gmail Logo" width="50" height="50"> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="Gmail Logo" width="80" height="50"> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
  <hr/>
