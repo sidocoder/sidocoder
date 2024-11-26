@@ -9,8 +9,8 @@
 <br/>
 
 <div align="center">
-- 👋 Hi, I’m @sidocoder
-- 👀 I’m interested in coding, problem solving and creating artistic features
+- 👋 Hi, I’m @sidocoder <br>
+- 👀 I’m interested in coding, problem solving and creating artistic features <br>
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sifhoran2024@gmail.com
