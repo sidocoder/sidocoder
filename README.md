@@ -12,8 +12,8 @@
 - 📫 How to reach me sifhoran2024@gmail.com <br>
  </div>
     <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="C:\Users\moti\Pictures\Saved Pictures\download.png" alt="Gmail Logo" width="80" height="50">
+  <a href="mailto:sifhoran2024@gmail.com">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="Gmail Logo" width="50" height="50">
   </a>
   <a href="https://www.linkedin.com/in/sifhoran-regassa-gidisa/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="50" height="50">
