@@ -13,13 +13,13 @@
  </div>
     <div align="center"> 
   <a href="mailto:sifhoran2024@gmail.com">
-    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="Gmail Logo" width="50" height="50">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="Gmail Logo" width="90" height="50">
   </a>
   <a href="https://www.linkedin.com/in/sifhoran-regassa-gidisa/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="50" height="50">
   </a>
   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" height="50" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" height="50" width="160" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
  <hr/>
