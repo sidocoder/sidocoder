@@ -6,10 +6,10 @@
 <br/>
 
 <div align="center">
-- 👋 Hi, I’m @sidocoder <br>
-- 👀 I’m interested in coding, problem solving and creating artistic features <br>
+- 👋 Hi, There <br>
 - 🌱 I’m currently learning django <br>
 - 💞️ I’m looking to collaborate on ...<br>
+- 👀 I’m interested in coding, problem solving and creating artistic features <br>
 - 📫 How to reach me sifhoran2024@gmail.com <br>
  </div>
 
