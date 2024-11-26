@@ -1,20 +1,27 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sidocoder.sidocoder" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body>
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sidocoder.sidocoder" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sifhoran+Regassa!;" />
 </h1>
 <h3 align="center">A passionate software developer</h3>
 <br/>
-
-<div align="center">
+    <div align="center">
     <div>- 👋 Hi, There <br> </div>
     <div>- 🌱 I’m currently learning django <br></div>
   - 💞️ I’m looking to collaborate on ...<br> 
 - 👀 I’m interested in coding, problem solving and creating artistic features <br>
 - 📫 How to reach me sifhoran2024@gmail.com <br>
  </div>
-
-<div align="center"> 
+    <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <i class="fa fa-github" style="font-size:48px;color:red"></i>
   </a>
@@ -25,7 +32,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
  <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -37,8 +43,20 @@
 
 <br/>
 <hr/>
-
 <div align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sidocoder&show_icons=true&theme=radical)
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -46,4 +64,3 @@
 sidocoder/sidocoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sidocoder&show_icons=true&theme=radical)
