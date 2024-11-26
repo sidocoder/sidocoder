@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">A passionate software developer</h3>
 <br/>
-    <div align="center">
+    <div align="center" >
     - 👋 Hey, There I'm Sifhoran<br>
    - 🌱 I’m currently learning django <br>
   - 💞️ I’m looking to collaborate on ...<br> 
@@ -12,19 +12,19 @@
  </div>
     <div align="center"> 
   <a href="mailto:sifhoran2024@gmail.com">
-    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="Gmail Logo" width="90" height="50">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="Gmail Logo" width="70" height="30">
   </a>
   <a href="https://www.linkedin.com/in/sifhoran-regassa-gidisa/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="30" height="30">
   </a>
   <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" height="50" width="160" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" height="30" width="140" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
  <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div align="center" height= "50">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,java,mysql" /><br>
 </div>
@@ -43,7 +43,7 @@
 <hr/>
 <br/>
 
-<div align="center">
+<div align="center" height="50">
 <a href='#' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
