@@ -8,20 +8,14 @@
 <div align="center">
     <div>- 👋 Hi, There <br> </div>
     <div>- 🌱 I’m currently learning django <br></div>
-    <div> - 💞️ I’m looking to collaborate on ...<br> </div>
-    <div> </div>
-    <div> </div>
-    
-
-
-
+  - 💞️ I’m looking to collaborate on ...<br> 
 - 👀 I’m interested in coding, problem solving and creating artistic features <br>
 - 📫 How to reach me sifhoran2024@gmail.com <br>
  </div>
 
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <i class="fa fa-github" style="font-size:48px;color:red"></i>
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
