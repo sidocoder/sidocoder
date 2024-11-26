@@ -8,7 +8,7 @@
 <div align="center">
     <div>- 👋 Hi, There <br> </div>
     <div>- 🌱 I’m currently learning django <br></div>
-    <div class="ps-5 ms-5"> - 💞️ I’m looking to collaborate on ...<br> </div>
+    <div> - 💞️ I’m looking to collaborate on ...<br> </div>
     <div> </div>
     <div> </div>
     
