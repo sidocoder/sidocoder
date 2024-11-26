@@ -5,7 +5,7 @@
 <h3 align="center">A passionate software developer</h3>
 <br/>
 
-<div class=" ps-5 ms-5" style= "padding-left: 50px;">
+<div justify-items="center">
 - 👋 Hi, I’m @sidocoder <br>
 - 👀 I’m interested in coding, problem solving and creating artistic features <br>
 - 🌱 I’m currently learning django <br>
