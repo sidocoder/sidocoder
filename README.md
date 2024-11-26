@@ -5,8 +5,8 @@
 <h3 align="center">A passionate software developer</h3>
 <br/>
     <div align="center">
-    <div>- 👋 Hi, There <br> </div>
-    <div>- 🌱 I’m currently learning django <br></div>
+    - 👋 Hi, There <br>
+   - 🌱 I’m currently learning django <br>
   - 💞️ I’m looking to collaborate on ...<br> 
 - 👀 I’m interested in coding, problem solving and creating artistic features <br>
 - 📫 How to reach me sifhoran2024@gmail.com <br>
@@ -23,20 +23,16 @@
   </a>
 </div>
  <hr/>
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,java,mysql" /><br>
 </div>
-
 <br/>
 <hr/>
 <div align="center">
-
 <hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -45,9 +41,7 @@
 </div>
 
 <br/><br/>
-
 <hr/>
-
 <br/>
 
 <div align="center">
