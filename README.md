@@ -5,11 +5,12 @@
 <h3 align="center">A passionate software developer</h3>
 
     <div align="center" >
-    - 👋 Hey, There I'm Sifhoran<br>
+    - 👋 Hey, There I'm Sifhoran <br>
    - 🌱 I’m currently learning django <br>
   - 💞️ I’m looking to collaborate on ...<br> 
 - 👀 I’m interested in coding, problem solving and creating artistic features <br>
  </div>
+ <br/>
     <div align="center"> 
   <a href="mailto:sifhoran2024@gmail.com">
     <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="Gmail Logo" width="70" height="30">
