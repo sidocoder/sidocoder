@@ -6,8 +6,14 @@
 <br/>
 
 <div align="center">
-- 👋 Hi, There <br>
-- 🌱 I’m currently learning django <br>
+    <div>- 👋 Hi, There <br> </div>
+    <div>- 👋 Hi, There <br> </div>
+    <div> - 🌱 I’m currently learning django <br></div>
+    <div> </div>
+    <div> </div>
+    
+
+
 - 💞️ I’m looking to collaborate on ...<br>
 - 👀 I’m interested in coding, problem solving and creating artistic features <br>
 - 📫 How to reach me sifhoran2024@gmail.com <br>
