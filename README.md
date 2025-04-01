@@ -6,8 +6,8 @@
 <br/>
     <div align="center" >
     - 👋 Hey, There I'm Sifhoran <br>
-   - 🌱 I’m currently learning django <br>
-  - 💞️ I’m looking to collaborate on ...<br> 
+   - 🌱 I’m currently learning DSA and React<br>
+  - 💞️ I’m looking to collaborate on Full-stack development<br> 
 - 👀 I’m interested in coding, problem solving and creating artistic features <br>
  </div>
 <br/>
