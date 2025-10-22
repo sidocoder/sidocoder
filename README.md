@@ -45,7 +45,7 @@
 <br/>
 
 <div align="center" height="50">
-<a href='https://t.me/@c4anRG' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy a Coffee' /></a>
+<a href='https://t.me/@c4anRG' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Ethiopian Coffee' /></a>
 </div>
 
 <br/>
