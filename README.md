@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/sifhoran-regassa-gidisa/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="30" height="30">
   </a>
-  <a href="#" target="_blank">
+  <a href="https://sifhoran-regassa-o5l7.onrender.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" height="30" width="140" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
